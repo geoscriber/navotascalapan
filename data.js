@@ -30,10 +30,34 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.258638163328163,
-          "pitch": 0.32132326625749563,
+          "yaw": 2.1321428332936385,
+          "pitch": 0.31838868772938156,
           "rotation": 0,
           "target": "1-image-2"
+        },
+        {
+          "yaw": 2.2639255656165727,
+          "pitch": 0.28626655776102083,
+          "rotation": 0,
+          "target": "2-image-3"
+        },
+        {
+          "yaw": 2.8346023852019515,
+          "pitch": 0.11747113897870243,
+          "rotation": 0,
+          "target": "3-image-4"
+        },
+        {
+          "yaw": 2.036147887424484,
+          "pitch": 0.07801804344834196,
+          "rotation": 0,
+          "target": "4-image-5"
+        },
+        {
+          "yaw": 1.80819967719877,
+          "pitch": 0.04647982069404222,
+          "rotation": 0,
+          "target": "5-image-6"
         }
       ],
       "infoHotspots": [
@@ -79,6 +103,12 @@ var APP_DATA = {
           "pitch": 0.20403895530023775,
           "rotation": 0,
           "target": "0-image-1"
+        },
+        {
+          "yaw": -2.092760978130727,
+          "pitch": 0.9105715000628276,
+          "rotation": 0,
+          "target": "2-image-3"
         }
       ],
       "infoHotspots": []
@@ -125,10 +155,22 @@ var APP_DATA = {
           "target": "0-image-1"
         },
         {
-          "yaw": -2.0355891935038457,
-          "pitch": 1.0379615702665799,
+          "yaw": -2.038638952047627,
+          "pitch": 1.0404678073811624,
           "rotation": 0,
-          "target": "2-image-3"
+          "target": "1-image-2"
+        },
+        {
+          "yaw": 2.895932346702656,
+          "pitch": 0.06192811962541711,
+          "rotation": 0,
+          "target": "5-image-6"
+        },
+        {
+          "yaw": 3.1408339379539427,
+          "pitch": 0.07731138233314994,
+          "rotation": 0,
+          "target": "4-image-5"
         }
       ],
       "infoHotspots": []
@@ -179,6 +221,18 @@ var APP_DATA = {
           "pitch": 0.27388231360377446,
           "rotation": 0,
           "target": "2-image-3"
+        },
+        {
+          "yaw": 0.6087517175820345,
+          "pitch": 0.049052651237904143,
+          "rotation": 0,
+          "target": "5-image-6"
+        },
+        {
+          "yaw": 0.8987525803871357,
+          "pitch": 0.05962053292044445,
+          "rotation": 0,
+          "target": "4-image-5"
         }
       ],
       "infoHotspots": []
